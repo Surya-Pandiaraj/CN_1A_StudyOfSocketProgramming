@@ -122,7 +122,14 @@ while True:
 ```
 
 ## OUTPUT :
-<img width="1918" height="1197" alt="image" src="https://github.com/user-attachments/assets/018e5686-702d-48ae-b016-8857335e05a7" />
+
+### CLIENT :
+
+<img width="777" height="399" alt="image" src="https://github.com/user-attachments/assets/3625ae9e-39d2-4ee7-b57a-bc9f97e0477f" />
+
+### SERVER :
+
+<img width="659" height="561" alt="image" src="https://github.com/user-attachments/assets/b9745ac5-7ec3-4f32-a9b4-f52481a1f943" />
 
 ## RESULT : 
 Thus the study of Socket Programming Completed Successfully
